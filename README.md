@@ -44,6 +44,8 @@ You can find the plugin in the official StreamDeck plugin store
 3. Set the step size.
 4. Press the dial to toggle the light or rotate the dial to change the value.
 
+:D
+
 ## License
 
 This project is licensed under the GPL-3.0 License - see the [LICENSE](LICENSE) file for details.

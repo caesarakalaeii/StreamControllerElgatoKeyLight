@@ -3,8 +3,8 @@
   "thumbnail": "store/Thumbnail.png",
   "id": "com_memclash_elgatokeylight",
   "name": "Elgato Key Light Control",
-  "author": "Cozybuild",
-  "github": "https://github.com/cozybuild/StreamControllerElgatoKeyLight",
+  "author": "Cozybuild and Caesar",
+  "github": "https://github.com/caesarakalaeii/StreamControllerElgatoKeyLight",
   "descriptions": {
     "en_US": "Control your Elgato Key Light with StreamDeck. Supports brightness and temperature control and dial control."
   },
